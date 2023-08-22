@@ -1,5 +1,0 @@
-{{#user}}
-Name: Niranjan Bhausaheb Pawar
-Skills: HTML, CSS, JS,reactjs,SQL,NOSQL,JAVA ,C++
-Email: niranjanpawar2020@gmail.com
-{{/user}}
